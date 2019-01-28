@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.content.BodyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-01-28T14:47:17" hostname="Pavlos-MacBook-Pro.local" time="0.125">
+<testsuite name="tests.content.BodyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-01-28T15:20:49" hostname="Pavlos-MacBook-Pro.local" time="0.124">
   <properties/>
   <testcase name="mainTitlesTest" classname="tests.content.BodyTest" time="0.043"/>
   <testcase name="sectionsAmountTest" classname="tests.content.BodyTest" time="0.08"/>
