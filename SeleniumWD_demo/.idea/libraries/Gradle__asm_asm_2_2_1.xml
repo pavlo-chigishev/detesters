@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: asm:asm:2.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/asm/asm/2.2.1/ea933bfba70a570081b6b3e43a25dab873248a0/asm-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/asm/asm/2.2.1/aea20f307f7d33fba882ffc7a1417a874e121342/asm-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

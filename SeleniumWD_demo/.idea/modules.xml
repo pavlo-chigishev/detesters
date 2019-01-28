@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeleniumWD.Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/SeleniumWD.Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeleniumWD.Demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SeleniumWD.Demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeleniumWD.Demo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SeleniumWD.Demo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumWD_demo.iml" filepath="$PROJECT_DIR$/SeleniumWD_demo.iml" />
+    </modules>
+  </component>
+</project>
